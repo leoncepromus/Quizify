@@ -19,7 +19,7 @@ Quizify is an interactive quiz application where users can take multiple-choice 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quizify.git
+   git clone https://github.com/username/quizify.git
    ```
 2. Navigate to the project directory:
    ```bash
